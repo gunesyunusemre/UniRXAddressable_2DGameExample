@@ -1,0 +1,70 @@
+Warning: The formatting in this file is subject to change.
+[Building Default Build Script] 15170856,5us
+ [ProcessAllGroups] 81679us
+ [ContentPipeline.BuildAssetBundles] 14808992,6us
+  [LoadCachedData] 5168,29999999936us
+   1 items
+   [GetCachedInfoFile] 419,499999999971us
+   [Read and deserialize cache info] 2947,70000000062us
+    Time spent deserializing: 1ms
+    Cache hit count: 0
+   [Check for changed dependencies] 441,299999998591us
+  [SaveCachedData] 21969,7000000015us
+   Saving 1 infos
+   [SetupOperations] 158,899999998539us
+   [SerializingCacheInfos] 21352,5000000009us
+  [LoadCachedData] 1205,20000000033us
+   5 items
+   [GetCachedInfoFile] 417,100000000573us
+   [Read and deserialize cache info] 759,099999999307us
+    Time spent deserializing: 0ms
+    Cache hit count: 0
+   [Check for changed dependencies] 1,89999999929569us
+  [SaveCachedData] 14908,300000001us
+   Saving 5 infos
+   [SetupOperations] 406,000000000859us
+   [SyncPendingSaves] 8,40000000061991us
+   [SerializingCacheInfos] 14121,6000000004us
+  [LoadCachedData] 971,700000000055us
+   3 items
+   [GetCachedInfoFile] 248,199999999997us
+   [Read and deserialize cache info] 693,500000001222us
+    Time spent deserializing: 0ms
+    Cache hit count: 0
+   [Check for changed dependencies] 1,80000000000291us
+  [SaveCachedData] 10319,9000000004us
+   Saving 3 infos
+   [SetupOperations] 298,300000000381us
+   [SyncPendingSaves] 5,00000000101863us
+   [SerializingCacheInfos] 9647,69999999953us
+  [CreateWorkItems] 5528,09999999954us
+  [CalculateHashFileOffsets] 1201,30000000063us
+  [Creating Cache Entries] 232745,300000001us
+  [Load Cached Data] 956,399999999121us
+   [LoadCachedData] 949,999999998909us
+    3 items
+    [GetCachedInfoFile] 244,899999999689us
+    [Read and deserialize cache info] 679,799999999887us
+     Time spent deserializing: 0ms
+     Cache hit count: 0
+    [Check for changed dependencies] 1,89999999929569us
+  [CopyingCachedFiles] 8,40000000061991us
+  [ArchiveItems] 3696160,7us
+   Archiving 3 Bundles
+   [Archive 732119fe2bba7d02613a91ab2dcef615.bundle] 3680635,5us
+    [Copying From Cache Library/BuildCache/5d/5d8662ccf6e07a20c9b661efd4d56e11/ec52361c4c571289d0deea7472dbbfc9/732119fe2bba7d02613a91ab2dcef615.bundle -> Temp/com.unity.addressables/AssetBundles/732119fe2bba7d02613a91ab2dcef615.bundle] 2228,39999999997us
+   [Archive 373533dc3767938a08eab2a800cb769e.bundle] 24690,8us
+    [Copying From Cache Library/BuildCache/42/42e354561d55878c8c1e967e0396292f/70c1b87f4b462c7017f9737c31790f97/373533dc3767938a08eab2a800cb769e.bundle -> Temp/com.unity.addressables/AssetBundles/373533dc3767938a08eab2a800cb769e.bundle] 3198,3us
+   [Archive fad4d3d449d47664ba02fb2b71fc8c42_unitybuiltinshaders.bundle] 25145,5us
+    [Copying From Cache Library/BuildCache/8b/8b4b9bf7e9aadc2b6f7955d4bffb57d5/a3f8071ba2028d056bd1ade73b8f9214/fad4d3d449d47664ba02fb2b71fc8c42_unitybuiltinshaders.bundle -> Temp/com.unity.addressables/AssetBundles/fad4d3d449d47664ba02fb2b71fc8c42_unitybuiltinshaders.bundle] 1782,7us
+  [PostArchiveProcessing] 1509,20000000042us
+  [Copying To Cache] 2995,19999999939us
+   [SaveCachedData] 2534,39999999864us
+    Saving 3 infos
+    [SetupOperations] 291,400000000067us
+    [SyncPendingSaves] 5,5000000011205us
+    [SerializingCacheInfos] 1879,30000000051us
+  [SyncPendingSaves] 8,20000000021537us
+ [GenerateLocationListsTask.Run] 121789,500000001us
+ [PostProcessBundles] 36003,0999999999us
+ [Catalog Entries.] 14797,5999999999us
